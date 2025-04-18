@@ -1,7 +1,7 @@
 # FEUP-BDNR
 FEUP - Bases de Dados Não Relacionais
 
-**NoSQL databases** labs (PostgreSQL, Redis, MongoDB, Cassandra and Neo4j) and project.
+**NoSQL databases** labs (Redis, MongoDB, Cassandra and Neo4j) and project.
 
 ### Project: 
 
