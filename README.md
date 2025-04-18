@@ -1,5 +1,8 @@
 # FEUP-BDNR
-FEUP - Bases de Dados Não Relacionais
+
+> 2023/2024 - Master's 1st year, 2nd semester
+
+[Non-Relational Databases](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=518831 "course page") course.
 
 **NoSQL databases** labs (Redis, MongoDB, Cassandra and Neo4j) and project.
 
