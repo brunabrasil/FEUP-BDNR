@@ -9,7 +9,7 @@ Developed a web application where users can search for movies, actors, and direc
 
 Additionally, it features a social aspect, users can create profiles, search for other users, follow and unfollow people, and view timelines that display the latest reactions and comments from the people they follow. Each user can see their followers and who they are following, and the system supports personalized suggestions such as recommending users nearby or suggesting movies based on what followed users liked or reacted to.
 
-The backend is built with Node.js, and the frontend uses React. Data is stored in ArangoDB, a **NoSQL graph database**, which enables efficient handling of relationships between entities like movies, actors, genres, users, and comments.
+**Stack:** The backend is built with Node.js, and the frontend uses React. Data is stored in ArangoDB, a **NoSQL graph database**, which enables efficient handling of relationships between entities like movies, actors, genres, users, and comments.
 
 ---
 
