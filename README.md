@@ -4,7 +4,7 @@
 
 [Non-Relational Databases](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=518831 "course page") course.
 
-**NoSQL databases** labs (Redis, MongoDB, Cassandra and Neo4j) and project.
+**NoSQL databases** labs (Redis, MongoDB, Cassandra and Neo4j) and project (graph database).
 
 ### Project: 
 
